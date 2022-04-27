@@ -20,7 +20,7 @@ p1 = Point(0, 0)
 p2 = Point(100, 0)
 p3 = Point(0, 100)
 
-print(math.hyopt(p1.x-p2.x, p1.y-p2.y))
+print(math.hypot(p1.x-p2.x, p1.y-p2.y))
 ```
 
 
