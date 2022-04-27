@@ -7,6 +7,7 @@ print('Hello World!')
 ```
 
 ```python runnable
+from dataclasses import dataclass
 
 @dataclass
 class Point:
